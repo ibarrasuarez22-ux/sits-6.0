@@ -1,0 +1,13 @@
+streamlit
+geopandas
+pandas
+numpy
+rasterio
+folium
+streamlit-folium
+plotly
+matplotlib
+fpdf
+shapely
+rtree
+pyogrio
